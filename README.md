@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aierbote
-- 🤓 Like in maths and science
+- 🤓 Like maths and science
 - 👨🏻‍💻 Confident in GUI (hotkeys, gestures)
 - ⌨️ Diving in CLI and programming languages 
 - 🌱 Currently learning Python 💙☯💛
