@@ -4,6 +4,8 @@
 - ⌨️ Diving in CLI and programming languages 
 - 🌱 Currently learning Python 💙☯💛
 
+![Aierbote GitHub stats](https://github-readme-stats.vercel.app/api?username=Aierbote&show_icons=true)
+
 
 <!---
 Aierbote/Aierbote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
