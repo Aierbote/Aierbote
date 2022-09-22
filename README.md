@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Aierbote
-- 🤓 Like maths and science
+- 🤓 Like Maths and Science
 - 👨🏻‍💻 Confident in GUI (hotkeys, gestures)
-- ⌨️ Diving in CLI and programming languages 
-- 🌱 Currently learning Python 💙☯💛
+- ⌨️ Diving in CLI and Programming Languages 
+- 🌿 Basic-Intermediate with Python 💙☯💛 (On Halt)
+- 🌱 Currently learning FrontEnd Dev ⚛️JS
 
 ![Aierbote GitHub stats](https://github-readme-stats.vercel.app/api?username=Aierbote&show_icons=true)
 
