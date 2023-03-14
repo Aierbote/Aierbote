@@ -5,7 +5,7 @@
 - 🌿 Basic-Intermediate with Python 💙☯💛 (On Halt)
 - 🌱 Currently learning FrontEnd/Web Dev ⚛️JS, ☕️Java, 🐘MySQL  
 
-- Student at [ITS Steve Jobs Academy][https://stevejobs.academy/] Palermo (PA), Italy
+- Student at [ITS Steve Jobs Academy](https://stevejobs.academy/) Palermo (PA), Italy
 
 ![Aierbote GitHub stats](https://github-readme-stats.vercel.app/api?username=Aierbote&show_icons=true)
 
