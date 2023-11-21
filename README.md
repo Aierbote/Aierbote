@@ -3,7 +3,7 @@
 - 👨🏻‍💻 Confident in GUI (hotkeys, gestures)
 - ⌨️ Diving in CLI and Programming Languages 
 - 🌿 Basic-Intermediate with Python 💙☯💛 (On Halt)
-- 🌱 Currently learning FrontEnd/Web Dev ⚛️JS, ☕️Java, 🐘MySQL  
+- 🌱 Currently learning FrontEnd/Web Dev JS, ⚛️ReactJS, ☕️Java, 🐘MySQL, 🍃MongoDB, 🛡Angular
 
 - Student at [ITS Steve Jobs Academy](https://stevejobs.academy/) Palermo (PA), Italy
 
