@@ -3,10 +3,11 @@
 - 👨🏻‍💻 Confident in GUI (hotkeys, gestures)
 - ⌨️ Diving in CLI and Programming Languages
 - **M**⬇️ **Markdown** is [Awesome][0]
-- 🌿 Basic-Intermediate with Python 💙☯💛 (On Halt)
-- 🌱 Currently learning FrontEnd/Web Dev JS, ⚛️ReactJS, ☕️Java, 🐘MySQL, 🍃MongoDB, 🛡Angular
-
-- Student at [ITS Steve Jobs Academy][1] Palermo (PA), Italy
+- Basic-Intermediate with Python 💙☯💛
+- Web Development, ⚛️ReactJS, ☕️Java,🐘MySQL, 🍃MongoDB, 🛡🅰️ Angular, 🪢 NodeJS, 🪺 NestJS,
+- Basics of Unit-Testing & Integration-Testing (🃏Jest and Cypress🌿)
+- 👨‍🎓📜 Student at [ITS Steve Jobs Academy][1] Palermo (PA), Italy 
+- 🌱 **Strenghtening Backend with ☕️Java Spring 🥾**
 
 ![Aierbote GitHub stats](https://github-readme-stats.vercel.app/api?username=Aierbote&show_icons=true)
 
