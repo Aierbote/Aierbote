@@ -4,13 +4,12 @@
 - ⌨️ Diving in CLI and Programming Languages
 - **M**⬇️ **Markdown** is [Awesome][0]
 - Basic-Intermediate with Python 💙☯💛
-- Web Development, ⚛️ReactJS, ☕️Java,🐘MySQL, 🍃MongoDB, 🛡🅰️ Angular, 🪢 NodeJS, 🪺 NestJS,
-- Basics of Unit-Testing & Integration-Testing (🃏Jest and Cypress🌿)
-- 👨‍🎓📜 Student at [ITS Steve Jobs Academy][1] Palermo (PA), Italy 
-- 🌱 **Strenghtening Backend with ☕️Java Spring 🥾**
+- Web Development, ⚛️ReactJS, ☕️Java, 🐘MySQL, 🍃MongoDB, 🛡🅰️ Angular, 🪢 NodeJS, 🪺 NestJS, ☕️🥾 Java Spring
+- Basics of Unit-Testing & Integration-Testing (🃏Jest and 🌿Cypress)
+- [X] 👨‍🎓📜 Student at [ITS Steve Jobs Academy][1] Palermo (PA), Italy 
+- 🌱 **Strenghtening with 🐳Docker, 🐙Compose and 🎡Kubernetes**
 
 ![Aierbote GitHub stats](https://github-readme-stats.vercel.app/api?username=Aierbote&show_icons=true)
-
 
 <!---
 Aierbote/Aierbote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
